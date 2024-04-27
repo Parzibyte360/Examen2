@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Examen2
+namespace Examen2.Clases
 {
     public class Pedidos
     {

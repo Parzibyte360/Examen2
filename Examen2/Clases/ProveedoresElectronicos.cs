@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Examen2.Interfaces;
 
-namespace Examen2
+namespace Examen2.Clases
 {
     public class ProveedoresElectronicos : IProveedor
     {

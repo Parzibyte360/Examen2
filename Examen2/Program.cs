@@ -1,4 +1,4 @@
-﻿using Examen2;
+﻿using Examen2.Clases;
 
 class Program
 {
